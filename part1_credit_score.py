@@ -121,3 +121,5 @@ plt.show()
 
 The outliers in the applicant and coapplicant income won't be removed as they may be authentic entries
 """
+
+df.to_csv("credit_data.csv")
